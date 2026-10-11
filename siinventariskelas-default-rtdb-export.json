@@ -1,0 +1,30 @@
+{
+  "barang": {
+    "BRG006": "{\"kode\":\"BRG006\",\"nama\":\"Laptop \",\"kategori\":\"Elektronik\",\"jumlah\":\"1\",\"kondisi\":\"Baik\"}",
+    "BRG007": "{\"kode\":\"BRG007\",\"nama\":\"Laptop\",\"kategori\":\"Elektronik\",\"jumlah\":\"1\",\"kondisi\":\"Baik\"}",
+    "BRG008": "{\"kode\":\"BRG008\",\"nama\":\"laptop \",\"kategori\":\"Elektronik\",\"jumlah\":\"2\",\"kondisi\":\"Baik\"}",
+    "BRG02": "{\"kode\":\"BRG02\",\"nama\":\"Proyektor\",\"kategori\":\"Elektronik\",\"jumlah\":\"1\",\"kondisi\":\"Baik\"}",
+    "BRG04": "{\"kode\":\"BRG04\",\"nama\":\"Proyektor \",\"kategori\":\"Elektronik\",\"jumlah\":\"1\",\"kondisi\":\"Baik\"}",
+    "BRG09": "{\"kode\":\"BRG09\",\"nama\":\"Spidol \",\"kategori\":\"Alat Tulis\",\"jumlah\":\"2\",\"kondisi\":\"Baik\",\"lokasi\":\"12 TJKT\"}",
+    "BRG89": "{\"kode\":\"BRG89\",\"nama\":\"Kursi\",\"kategori\":\"Mebel\",\"jumlah\":\"1\",\"kondisi\":\"Baik\",\"lokasi\":\"10 AKL\"}",
+    "BRG91": "{\"kode\":\"BRG91\",\"nama\":\"Laptop \",\"kategori\":\"Elektronik\",\"jumlah\":\"1\",\"kondisi\":\"Baik\"}",
+    "BRG92": "{\"kode\":\"BRG92\",\"nama\":\"Kursi \",\"kategori\":\"Mebel\",\"jumlah\":\"1\",\"kondisi\":\"Rusak Ringan\"}",
+    "BRG93": "{\"kode\":\"BRG93\",\"nama\":\"Laptop \",\"kategori\":\"Elektronik\",\"jumlah\":\"1\",\"kondisi\":\"Baik\"}",
+    "BRG94": "{\"kode\":\"BRG94\",\"nama\":\"Laptop \",\"kategori\":\"Elektronik\",\"jumlah\":\"1\",\"kondisi\":\"Rusak Berat\"}",
+    "BRG97": "{\"kode\":\"BRG97\",\"nama\":\"Kursi\",\"kategori\":\"Mebel\",\"jumlah\":\"1\",\"kondisi\":\"Baik\",\"lokasi\":\"12 PPLG\"}",
+    "BRG98": "{\"kode\":\"BRG98\",\"nama\":\"Laptop\",\"kategori\":\"Elektronik\",\"jumlah\":\"1\",\"kondisi\":\"Rusak Berat\",\"lokasi\":\"12 PM 2\"}",
+    "barang": {
+      "BRG03": "{\"kode\":\"BRG03\",\"nama\":\"Laptop \",\"kategori\":\"Elektronik\",\"jumlah\":\"1\",\"kondisi\":\"Baik\"}",
+      "BRG07": "{\"kode\":\"BRG07\",\"nama\":\"Laptop \",\"kategori\":\"Elektronik\",\"jumlah\":\"1\",\"kondisi\":\"Baik\"}",
+      "BRG08": "{\"kode\":\"BRG08\",\"nama\":\"Laptop\",\"kategori\":\"Elektronik\",\"jumlah\":\"1\",\"kondisi\":\"Baik\"}",
+      "BRG09": "{\"kode\":\"BRG09\",\"nama\":\"Proyektor \",\"kategori\":\"Elektronik\",\"jumlah\":\"1\",\"kondisi\":\"Baik\"}"
+    }
+  },
+  "users": {
+    "admin": {
+      "nama": "Admin Kelas",
+      "password": 12345,
+      "username": "admin"
+    }
+  }
+}
